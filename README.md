@@ -10,7 +10,7 @@ Joker is a python library for getting random dad jokes and more kinds of jokes
 you can install it by using the [pip](https://pip.pypa.io/en/stable/) package manager
 
 ```bash
-pip install Joker
+pip install Just-kidding
 ```
 
 # How to Use
