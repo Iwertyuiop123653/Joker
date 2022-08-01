@@ -9,9 +9,9 @@ classifiers = [
 ]
  
 setup(
-  name='Joker',
-  version='0.0.1',
-  description='Joker is a python library for getting random dad jokes and more kinds of jokes',
+  name='Joking',
+  version='0.0.2',
+  description='Just-kidding is a python library for getting random dad jokes and more kinds of jokes',
   long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='https://github.com/Iwertyuiop123653/Joker',  
   author='Hasty shrimp452',
