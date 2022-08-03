@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='Joking',
-  version='0.0.2',
+  version='0.0.3',
   description='Just-kidding is a python library for getting random dad jokes and more kinds of jokes',
   long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='https://github.com/Iwertyuiop123653/Joker',  
