@@ -10,9 +10,9 @@ classifiers = [
  
 setup(
   name='Joking',
-  version='0.0.3',
+  version='0.1.5',
   description='Just-kidding is a python library for getting random dad jokes and more kinds of jokes',
-  long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
+  long_description=open('README.rst').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='https://github.com/Iwertyuiop123653/Joker',  
   author='Hasty shrimp452',
   author_email='hahacoolguystaco@gmail.com',
@@ -21,5 +21,5 @@ setup(
   keywords='Dad jokes', 
   packages=find_packages(),
   install_requires=['bs4'],
-  long_description_content_type='text/markdown'
+  long_description_content_type='text/x-rst'
 )
