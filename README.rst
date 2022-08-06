@@ -39,16 +39,38 @@ How to Use
 .. code:: python
 
    sjoke() #Gets a specific joke using the joke id from https://icanhazdadjoke.com/
-
+   
+.. code:: python
+   
+   search_for_joke() #prints the top result for the joke you searched
+   
+.. code:: python
+   
+   Random_knock_knock_joke() #gets a random knock knock joke
+   
 .. code:: python
 
-   search_for_joke() #prints the top result for the joke you searched
-
+   skkjoke() #Gets a specific joke using the joke id
+   
+.. code:: python
+   
+   DarkJoke() #Gets a dark joke that is potentially sexist or racist
+   
+.. code:: python
+   
+   Pun() #Gets a random pun
+   
 How it works
 ============
 
 It works by web scraping https://icanhazdadjoke.com/ and using version 2
 of jokeapi.dev
+
+Joke id's
+================
+
+Joke ids are Joke ids from icanhazdadjoke.com or from http://www.jokes4us.com/knockknockjokes/random/knockknock.html
+To find a jokes id just search icanhazdadjoke.com or find the knock knock joke you want from http://www.jokes4us.com/knockknockjokes/random/knockknock.html
 
 How to contribute
 =================
