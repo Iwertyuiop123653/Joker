@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+Joking/__init__.py
+Joking.egg-info/PKG-INFO
+Joking.egg-info/SOURCES.txt
+Joking.egg-info/dependency_links.txt
+Joking.egg-info/requires.txt
+Joking.egg-info/top_level.txt
