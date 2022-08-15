@@ -9,3 +9,4 @@ Joking.egg-info/SOURCES.txt
 Joking.egg-info/dependency_links.txt
 Joking.egg-info/requires.txt
 Joking.egg-info/top_level.txt
+tests/tests.py

@@ -1,5 +1,23 @@
 # Joking
 
+Jokes for when your bored.
+
+```python
+>>>import Joking
+>>>random_dad_joke()
+My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+>>>programming_joke()
+The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+>>>random_joke()
+Why does Santa go down the chimney?
+
+Because it soots him!
+>>>random_knock_knock_joke()
+knock knock joke example
+>>>print("bye")
+bye
+```
+
 
 Joking is a python library for getting random dad jokes and more kinds
 of jokes
@@ -12,7 +30,8 @@ of jokes
 ![image5](https://tinyurl.com/badgesdhdh)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 ![image7](https://tinyurl.com/emails83) 
-![PyPI - Downloads](https://tinyurl.com/smoler)
+![PyPI - Downloads](https://static.pepy.tech/personalized-badge/joking?period=total&style=for-the-badge&units=none&left_color=black&right_color=orange&left_text=Downloads)
+![image](https://img.shields.io/badge/coverage-100%25-green?style=for-the-badge&labelColor=black)
 
 # Installation
 

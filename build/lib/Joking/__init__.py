@@ -1,28 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-"""
-Joking
-~~~~~~~~~
-Jokes for when your bored.
-
-Basic random Joke usage:
-
->>>import Joking
->>>random_dad_joke()
-My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
->>>programming_joke()
-The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
->>>random_joke()
-Why does Santa go down the chimney?
-
-Because it soots him!
->>>random_knock_knock_joke()
-knock knock joke example
->>>print("bye")
-bye
-"""
-
 
 def random_dad_joke():
     url = "https://icanhazdadjoke.com/"
@@ -71,12 +49,14 @@ def sjoke(Joke_id):
     html_content = requests.get(url).text
     soup = BeautifulSoup(html_content, "html.parser")
     print(soup.find('p').text)
+    return soup.find('p').text
 
 def search_for_joke(Search_term):
     url = f"https://icanhazdadjoke.com/search?term={Search_term}"
     html_content = requests.get(url).text
     soup = BeautifulSoup(html_content, "html.parser")
     print(soup.find('td').text)
+    return soup.find('td').text
 
 def Random_knock_knock_joke():
     import random
@@ -91,6 +71,7 @@ def skkjoke(Joke_id):
     html_content = requests.get(url).text
     soup = BeautifulSoup(html_content, "html.parser")
     print(soup.find('font').text)
+    return soup.find('font').text
 
 def DarkJoke():
     url = "https://v2.jokeapi.dev/joke/Dark?format=txt"
@@ -112,6 +93,7 @@ def Submit_joke(Your_name, Q, Punchline):
     }
     response = requests.request("POST", url, json=payload)
     print(response.text)
+    return response.text
 
 def yo_mama_joke_slash_insults():
     import random
@@ -132,4 +114,5 @@ def animal_joke():
 '''
 
 def version():
-    print("2.6.1")
+    print("2.7.2")
+    return "2.7.2"
