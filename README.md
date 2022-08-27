@@ -89,6 +89,18 @@ Pun() #Gets a random pun
 Submit_joke() #submits a joke
 ```
 
+``` python
+yo_mama_joke_slash_insults() #Gets a random Yo mama joke or insult
+```
+```python
+animal_joke() #Gets a random animal Joke
+```
+
+```python
+chuck_norris_joke() #Gets a chuck noris joke? (I don't even know what a chuck noris joke is)
+```
+
+
 # F.A.Q.
 
 Q. *Who make's The Jokes?*
@@ -119,3 +131,7 @@ http://www.jokes4us.com/knockknockjokes/index.html
 - Then fork the repository
 - make the changes you want
 - Then commit
+
+# Contact
+
+jokingpython@gmail.com or contact me via this form -> https://bit.ly/3CFTHeX

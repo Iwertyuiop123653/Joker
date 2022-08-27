@@ -16,7 +16,7 @@ setup(
       'Tracker': 'https://github.com/Iwertyuiop123653/Joker/issues/',
     },
   name='Joking',
-  version='2.7.2',
+  version='2.8.0',
   description='Just-kidding is a python library for getting random dad jokes and more kinds of jokes',
   long_description=open('README.md').read() + '\n\n\n' + open('CHANGELOG.txt').read(),
   url='https://github.com/Iwertyuiop123653/Joker',

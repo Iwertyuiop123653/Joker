@@ -10,8 +10,10 @@ from Joking import Random_knock_knock_joke
 from Joking import DarkJoke
 from Joking import Pun
 from Joking import yo_mama_joke_slash_insults
-from Joking import version
 from Joking import search_for_joke
+from Joking import JOD
+from Joking import chuck_norris_joke
+from Joking import animal_joke
 
 class TestSum(unittest.TestCase):
     def test_skkjoke(self):
@@ -77,8 +79,17 @@ Don't get too excited it's just a knock knock joke.
         result = search_for_joke(data)
         self.assertNotEqual(result, "What do you call a monkey in a mine field? A babooooom!")
 
-    def test_version(self):
-        result = version()
+
+    def test_JOD(self):
+        result = JOD()
+        self.assertNotEqual(result, "Traceback (most recent call last):")
+    
+    def test_noris(self):
+        result = chuck_norris_joke()
+        self.assertNotEqual(result, "Traceback (most recent call last):")
+    
+    def test_Animal_joke(self):
+        result = animal_joke()
         self.assertNotEqual(result, "Traceback (most recent call last):")
         
 if __name__ == '__main__':

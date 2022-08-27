@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: Joking
-Version: 2.7.2
+Version: 2.8.0
 Summary: Just-kidding is a python library for getting random dad jokes and more kinds of jokes
 Home-page: https://github.com/Iwertyuiop123653/Joker
 Author: Hasty shrimp452
@@ -111,6 +111,18 @@ Pun() #Gets a random pun
 Submit_joke() #submits a joke
 ```
 
+``` python
+yo_mama_joke_slash_insults() #Gets a random Yo mama joke or insult
+```
+```python
+animal_joke() #Gets a random animal Joke
+```
+
+```python
+chuck_norris_joke() #Gets a chuck noris joke? (I don't even know what a chuck noris joke is)
+```
+
+
 # F.A.Q.
 
 Q. *Who make's The Jokes?*
@@ -142,10 +154,14 @@ http://www.jokes4us.com/knockknockjokes/index.html
 - make the changes you want
 - Then commit
 
+# Contact
+
+jokingpython@gmail.com or contact me via this form -> https://bit.ly/3CFTHeX
+
 
 CHANGELOG
 
 ==============
 
-2.7.2 (8/15/2022)
+2.8.0 (8/27/2022)
 
