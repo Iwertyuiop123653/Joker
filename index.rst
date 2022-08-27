@@ -1,11 +1,29 @@
 Joking
 ======
 
+Jokes for when your bored.
+
+.. code:: python
+
+   >>>import Joking
+   >>>random_dad_joke()
+   My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+   >>>programming_joke()
+   The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+   >>>random_joke()
+   Why does Santa go down the chimney?
+
+   Because it soots him!
+   >>>random_knock_knock_joke()
+   knock knock joke example
+   >>>print("bye")
+   bye
+
 Joking is a python library for getting random dad jokes and more kinds
 of jokes
 
 |image0| |forthebadge| |forthebadge2| |image3| |image4| |image5|
-|forthebadge3| |image7| |PyPI - Downloads|
+|forthebadge| |image7| |PyPI - Downloads| |image|
 
 Installation
 ============
@@ -64,6 +82,18 @@ How to Use
 
    Submit_joke() #submits a joke
 
+.. code:: python
+
+   yo_mama_joke_slash_insults() #Gets a random Yo mama joke or insult
+
+.. code:: python
+
+   animal_joke() #Gets a random animal Joke
+
+.. code:: python
+
+   chuck_norris_joke() #Gets a chuck noris joke? (I don't even know what a chuck noris joke is)
+
 .. _faq:
 
 F.A.Q.
@@ -103,12 +133,19 @@ How to contribute
 -  make the changes you want
 -  Then commit
 
+Contact
+=======
+
+jokingpython@gmail.com or contact me via this form ->
+`https://bit.ly/3CFTHeX <https://bit.ly/3CFTHeX>`__
+
 .. |image0| image:: https://img.shields.io/badge/build-Passing-green?style=for-the-badge
-.. |forthebadge3| image:: https://forthebadge.com/images/badges/gluten-free.svg
+.. |forthebadge| image:: https://forthebadge.com/images/badges/gluten-free.svg
 .. |forthebadge2| image:: https://forthebadge.com/images/badges/powered-by-electricity.svg
 .. |image3| image:: https://img.shields.io/badge/License-MIT-orange?style=for-the-badge
 .. |image4| image:: https://bit.ly/3cTlr54
 .. |image5| image:: https://tinyurl.com/badgesdhdh
 .. |forthebadge| image:: https://forthebadge.com/images/badges/made-with-python.svg
 .. |image7| image:: https://tinyurl.com/emails83
-.. |PyPI - Downloads| image:: https://tinyurl.com/smoler
+.. |PyPI - Downloads| image:: https://static.pepy.tech/personalized-badge/joking?period=total&style=for-the-badge&units=none&left_color=black&right_color=orange&left_text=Downloads
+.. |image| image:: https://img.shields.io/badge/coverage-100%25-green?style=for-the-badge&labelColor=black
