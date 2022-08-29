@@ -1,6 +1,6 @@
 # Joking
 
-Jokes for when your bored.
+![Logo](https://res.cloudinary.com/dll6vnzkb/image/upload/v1661657421/Joking_i6u5ks.png)
 
 ```python
 >>>import Joking
@@ -27,7 +27,6 @@ of jokes
 ![forthebadge2](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 ![image3](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 ![image4](https://bit.ly/3cTlr54)
-![image5](https://tinyurl.com/badgesdhdh)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 ![image7](https://tinyurl.com/emails83) 
 ![PyPI - Downloads](https://static.pepy.tech/personalized-badge/joking?period=total&style=for-the-badge&units=none&left_color=black&right_color=orange&left_text=Downloads)

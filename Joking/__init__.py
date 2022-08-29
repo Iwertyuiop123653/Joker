@@ -109,4 +109,16 @@ def animal_joke():
     jokenum = random.randint(0, 28)
     print(jokes[jokenum])
 
-__version__ = '2.8.0'
+def Meme(Subreddit=""):
+    url = f"https://meme-api.herokuapp.com/gimme/{Subreddit}"
+    print(url)
+    response = requests.request("GET", url)
+    dict = response.text
+    import json
+    test_string = dict 
+    dict = json.loads(test_string)
+    Meme_url = dict.get('url')
+    print(Meme_url)
+    return Meme_url
+
+__version__ = '2.8.8'

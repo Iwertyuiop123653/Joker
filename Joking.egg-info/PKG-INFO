@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: Joking
-Version: 2.8.0
+Version: 2.8.8
 Summary: Just-kidding is a python library for getting random dad jokes and more kinds of jokes
 Home-page: https://github.com/Iwertyuiop123653/Joker
 Author: Hasty shrimp452
@@ -12,17 +12,17 @@ Project-URL: Source, https://github.com/Iwertyuiop123653/Joker/
 Project-URL: Tracker, https://github.com/Iwertyuiop123653/Joker/issues/
 Keywords: Dad jokes
 Platform: UNKNOWN
-Classifier: Development Status :: 5 - Production/Stable
-Classifier: Intended Audience :: Education
-Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Development Status :: 6 - Mature
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
 Classifier: License :: OSI Approved :: MIT License
-Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
 Description-Content-Type: text/markdown
 License-File: LICENSE.txt
 
 # Joking
 
-Jokes for when your bored.
+![Logo](https://res.cloudinary.com/dll6vnzkb/image/upload/v1661657421/Joking_i6u5ks.png)
 
 ```python
 >>>import Joking
@@ -49,7 +49,6 @@ of jokes
 ![forthebadge2](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 ![image3](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 ![image4](https://bit.ly/3cTlr54)
-![image5](https://tinyurl.com/badgesdhdh)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 ![image7](https://tinyurl.com/emails83) 
 ![PyPI - Downloads](https://static.pepy.tech/personalized-badge/joking?period=total&style=for-the-badge&units=none&left_color=black&right_color=orange&left_text=Downloads)
@@ -163,5 +162,5 @@ CHANGELOG
 
 ==============
 
-2.8.0 (8/27/2022)
+2.8.8 (8/29/2022)
 

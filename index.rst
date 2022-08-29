@@ -1,7 +1,7 @@
 Joking
 ======
 
-Jokes for when your bored.
+Jok
 
 .. code:: python
 
@@ -22,7 +22,7 @@ Jokes for when your bored.
 Joking is a python library for getting random dad jokes and more kinds
 of jokes
 
-|image0| |forthebadge| |forthebadge2| |image3| |image4| |image5|
+|image0| |forthebadge| |forthebadge2| |image3| |image4|
 |forthebadge| |image7| |PyPI - Downloads| |image|
 
 Installation
@@ -136,7 +136,7 @@ How to contribute
 Contact
 =======
 
-jokingpython@gmail.com or contact me via this form ->
+hahacoolguystaco@gmail.com or contact me via this form ->
 `https://bit.ly/3CFTHeX <https://bit.ly/3CFTHeX>`__
 
 .. |image0| image:: https://img.shields.io/badge/build-Passing-green?style=for-the-badge
@@ -144,8 +144,8 @@ jokingpython@gmail.com or contact me via this form ->
 .. |forthebadge2| image:: https://forthebadge.com/images/badges/powered-by-electricity.svg
 .. |image3| image:: https://img.shields.io/badge/License-MIT-orange?style=for-the-badge
 .. |image4| image:: https://bit.ly/3cTlr54
-.. |image5| image:: https://tinyurl.com/badgesdhdh
 .. |forthebadge| image:: https://forthebadge.com/images/badges/made-with-python.svg
 .. |image7| image:: https://tinyurl.com/emails83
 .. |PyPI - Downloads| image:: https://static.pepy.tech/personalized-badge/joking?period=total&style=for-the-badge&units=none&left_color=black&right_color=orange&left_text=Downloads
 .. |image| image:: https://img.shields.io/badge/coverage-100%25-green?style=for-the-badge&labelColor=black
+.. |jok| image:: https://res.cloudinary.com/dll6vnzkb/image/upload/v1661657421/Joking_i6u5ks.png

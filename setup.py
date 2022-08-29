@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 classifiers = [
-  'Development Status :: 5 - Production/Stable',
-  'Intended Audience :: Education',
-  'Operating System :: Microsoft :: Windows :: Windows 10',
+  'Development Status :: 6 - Mature',
+  'Intended Audience :: Developers',
+  'Operating System :: OS Independent',
   'License :: OSI Approved :: MIT License',
-  'Programming Language :: Python :: 3'
+  'Programming Language :: Python :: 3.10'
 ]
 
 setup(
@@ -16,7 +16,7 @@ setup(
       'Tracker': 'https://github.com/Iwertyuiop123653/Joker/issues/',
     },
   name='Joking',
-  version='2.8.0',
+  version='2.8.8',
   description='Just-kidding is a python library for getting random dad jokes and more kinds of jokes',
   long_description=open('README.md').read() + '\n\n\n' + open('CHANGELOG.txt').read(),
   url='https://github.com/Iwertyuiop123653/Joker',
@@ -29,4 +29,3 @@ setup(
   install_requires=['bs4'],
   long_description_content_type='text/markdown'
 )
-
