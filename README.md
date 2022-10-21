@@ -100,7 +100,7 @@ chuck_norris_joke() #Gets a chuck noris joke? (I don't even know what a chuck no
 ```
 
 ```python
-Meme #Gets memes (You can specify subreddit to get meme from)
+Meme() #Gets memes (You can specify subreddit to get meme from)
 ```
 
 
