@@ -1,5 +1,7 @@
 # Joking
 
+## Warning Some functions no longer work as intended
+
 ![Logo](https://res.cloudinary.com/dll6vnzkb/image/upload/v1661657421/Joking_i6u5ks.png)
 
 ```python
